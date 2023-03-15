@@ -1,0 +1,17 @@
+D:\ti\Lotto\Lotto\obj\Debug\Lotto.csprojAssemblyReference.cache
+D:\ti\Lotto\Lotto\obj\Debug\LottoNumberGenerator.Form1.resources
+D:\ti\Lotto\Lotto\obj\Debug\Lotto.Properties.Resources.resources
+D:\ti\Lotto\Lotto\obj\Debug\Lotto.csproj.GenerateResource.cache
+D:\ti\Lotto\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+D:\ti\Lotto\Lotto\bin\Debug\Lotto.exe.config
+D:\ti\Lotto\Lotto\bin\Debug\Lotto.exe
+D:\ti\Lotto\Lotto\bin\Debug\Lotto.pdb
+D:\ti\Lotto\Lotto\bin\Debug\ExcelDataReader.DataSet.dll
+D:\ti\Lotto\Lotto\bin\Debug\ExcelDataReader.dll
+D:\ti\Lotto\Lotto\bin\Debug\ExcelDataReader.pdb
+D:\ti\Lotto\Lotto\bin\Debug\ExcelDataReader.xml
+D:\ti\Lotto\Lotto\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\ti\Lotto\Lotto\bin\Debug\ExcelDataReader.DataSet.xml
+D:\ti\Lotto\Lotto\obj\Debug\Lotto.csproj.CopyComplete
+D:\ti\Lotto\Lotto\obj\Debug\Lotto.exe
+D:\ti\Lotto\Lotto\obj\Debug\Lotto.pdb
